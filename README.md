@@ -7,8 +7,8 @@ Added Virtual Reality capabilities
 ## Used Libraries
 Include:
 
-[](!https://github.com/elvinaqa/VirtualShusha/blob/main/ss.PNG)
-[](!https://github.com/elvinaqa/VirtualShusha/blob/main/ezgif-7-52173ed491cb.gif)
+![c](https://github.com/elvinaqa/VirtualShusha/blob/main/ss.PNG)
+![c](!https://github.com/elvinaqa/VirtualShusha/blob/main/ezgif-7-52173ed491cb.gif)
 
 ## Features
 
