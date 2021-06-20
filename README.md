@@ -8,7 +8,7 @@ Added Virtual Reality capabilities
 Include:
 
 ![c](https://github.com/elvinaqa/VirtualShusha/blob/main/ss.PNG)
-![c](!https://github.com/elvinaqa/VirtualShusha/blob/main/ezgif-7-52173ed491cb.gif)
+![cc](!https://github.com/elvinaqa/VirtualShusha/blob/main/ezgif-7-52173ed491cb.gif)
 
 ## Features
 
