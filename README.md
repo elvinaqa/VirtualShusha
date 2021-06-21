@@ -1,6 +1,7 @@
 # VirtualShusha
 Virtual, Augmented, Extended Shusha (Karabagh)
 
+XR App is coming soon!!
 # Virtual-Assistant-Python
 Added Virtual Reality capabilities
 
